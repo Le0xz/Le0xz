@@ -1,16 +1,14 @@
-## Hi there 👋
+Bem Vindos ao Meu Perfil
 
-<!--
-**Le0xz/Le0xz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Leonardo Bandeira
 
-Here are some ideas to get you started:
+Sou Estudante na Alura;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo na liguagem de JavaScript;
+
+Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos;
+
+
+Você pode entrar em contato comigo
+
+leonardobansouzza@gmail.com
